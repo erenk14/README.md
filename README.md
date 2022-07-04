@@ -1,4 +1,4 @@
-# Eren-Kazan
+# README.md
 My Personal Repository
 ### Hi there 👋
 
