@@ -1,5 +1,4 @@
-# README.md
-# README.md
+# Eren Kazan
 ### Hi there 👋
 
 
